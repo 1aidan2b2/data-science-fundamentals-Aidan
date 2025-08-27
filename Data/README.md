@@ -21,3 +21,6 @@ Now, I hesitate to include any of the websites on hear, since that data could be
 I brought in politics for two reasons:
 - Learning, even mathematical learning, is liberal; it requires the free and open flow of information.
 - We must always take the context in which data was collected into consideration.
+
+
+weather data site: [https://www.visualcrossing.com/weather-query-builder/](https://www.visualcrossing.com/weather-query-builder/) max size of exports is 1000
